@@ -1,0 +1,9 @@
+.graph {
+    height: 300px;
+    width: 100%;
+}
+.noscriptmsg {
+    color: red;
+    font-size: 16px;
+    text-align: center;
+}
