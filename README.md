@@ -15,7 +15,7 @@ Description : use chart.js library to update html by drawing new charts
 
 ## Author
 Abdelilah Benghadda => Junior Developer @Becode.org  
-João Andrade => Junior Developer @Becore.org
+João Andrade => Junior Web Developer @Becore.org
 
 ## Functionalities
 - XmlHttpRequest
