@@ -12,9 +12,6 @@ Description : use chart.js library to update html by drawing new charts
 ## Link
 https://jpra-dev.github.io/JAVASCRIPT-DATAVISUALISATION-CHALLENGE/
 
-#### Checking:
-- lighthouse : ?
-- w3c validator : ?
 
 ## Author
 João Andrade => Junior Web Developer @Becore.org
