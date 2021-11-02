@@ -17,8 +17,8 @@ https://jpra-dev.github.io/JAVASCRIPT-DATAVISUALISATION-CHALLENGE/
 - w3c validator : ?
 
 ## Author
-Abdelilah Benghadda => Junior Developer @Becode.org  
 João Andrade => Junior Web Developer @Becore.org
+Abdelilah Benghadda => Junior Developer @Becode.org  
 
 ## Functionalities
 - XmlHttpRequest
